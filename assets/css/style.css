@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+#all-crops {
+  margin-top: 20px;
+}
+
+/* #mapid {
+  top: 50px;
+} */
+
+.cropbtn {
+  margin: 6px 4px;
+}
+.navbar {
+  padding: 16px;
+}
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  transition: all .2s ease-in;
+  padding: 8px;
+  margin-right: 5px;
+  border-radius: 3px;
+}
+
+.navbar a:hover, .navbar a.active {
+  background-color: #fff;
+  /* color: #007bff; */
+  color: #777;
+}
